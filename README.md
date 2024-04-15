@@ -52,7 +52,7 @@ Sendo,
 
 *TRAPÉZIO*
 
-$A=frac{(B+b).h}{2}$
+$A=\frac{(B+b).h}{2}$
 
 Sendo,
 
@@ -76,3 +76,14 @@ Sendo,
 $\pi$: constante PI (3,14)
 
 *r*: raio
+
+
+*FÓRMULA DE BASKARA*
+
+->*Equação do 2° Grau
+
+ax²+bx+c=O
+
+->*Fórmula de Bhaskara*
+
+$x=\frac{-b±\sqrt{b²-4ac}}{2a}$
